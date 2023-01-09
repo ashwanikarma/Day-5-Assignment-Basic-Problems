@@ -1,0 +1,15 @@
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Assignment\PrimeFactor\PrimeFactors\bin\Debug\net6.0\PrimeFactors.exe
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Assignment\PrimeFactor\PrimeFactors\bin\Debug\net6.0\PrimeFactors.deps.json
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Assignment\PrimeFactor\PrimeFactors\bin\Debug\net6.0\PrimeFactors.runtimeconfig.json
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Assignment\PrimeFactor\PrimeFactors\bin\Debug\net6.0\PrimeFactors.dll
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Assignment\PrimeFactor\PrimeFactors\bin\Debug\net6.0\PrimeFactors.pdb
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Assignment\PrimeFactor\PrimeFactors\obj\Debug\net6.0\PrimeFactors.csproj.AssemblyReference.cache
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Assignment\PrimeFactor\PrimeFactors\obj\Debug\net6.0\PrimeFactors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Assignment\PrimeFactor\PrimeFactors\obj\Debug\net6.0\PrimeFactors.AssemblyInfoInputs.cache
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Assignment\PrimeFactor\PrimeFactors\obj\Debug\net6.0\PrimeFactors.AssemblyInfo.cs
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Assignment\PrimeFactor\PrimeFactors\obj\Debug\net6.0\PrimeFactors.csproj.CoreCompileInputs.cache
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Assignment\PrimeFactor\PrimeFactors\obj\Debug\net6.0\PrimeFactors.dll
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Assignment\PrimeFactor\PrimeFactors\obj\Debug\net6.0\refint\PrimeFactors.dll
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Assignment\PrimeFactor\PrimeFactors\obj\Debug\net6.0\PrimeFactors.pdb
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Assignment\PrimeFactor\PrimeFactors\obj\Debug\net6.0\PrimeFactors.genruntimeconfig.cache
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Assignment\PrimeFactor\PrimeFactors\obj\Debug\net6.0\ref\PrimeFactors.dll

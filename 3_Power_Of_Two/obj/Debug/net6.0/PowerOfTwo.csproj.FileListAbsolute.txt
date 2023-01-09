@@ -1,0 +1,15 @@
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Day 5 practice\Day-5-Basic-and-Fundamental-Program\PowerOfTwo\bin\Debug\net6.0\PowerOfTwo.exe
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Day 5 practice\Day-5-Basic-and-Fundamental-Program\PowerOfTwo\bin\Debug\net6.0\PowerOfTwo.deps.json
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Day 5 practice\Day-5-Basic-and-Fundamental-Program\PowerOfTwo\bin\Debug\net6.0\PowerOfTwo.runtimeconfig.json
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Day 5 practice\Day-5-Basic-and-Fundamental-Program\PowerOfTwo\bin\Debug\net6.0\PowerOfTwo.dll
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Day 5 practice\Day-5-Basic-and-Fundamental-Program\PowerOfTwo\bin\Debug\net6.0\PowerOfTwo.pdb
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Day 5 practice\Day-5-Basic-and-Fundamental-Program\PowerOfTwo\obj\Debug\net6.0\PowerOfTwo.csproj.AssemblyReference.cache
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Day 5 practice\Day-5-Basic-and-Fundamental-Program\PowerOfTwo\obj\Debug\net6.0\PowerOfTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Day 5 practice\Day-5-Basic-and-Fundamental-Program\PowerOfTwo\obj\Debug\net6.0\PowerOfTwo.AssemblyInfoInputs.cache
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Day 5 practice\Day-5-Basic-and-Fundamental-Program\PowerOfTwo\obj\Debug\net6.0\PowerOfTwo.AssemblyInfo.cs
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Day 5 practice\Day-5-Basic-and-Fundamental-Program\PowerOfTwo\obj\Debug\net6.0\PowerOfTwo.csproj.CoreCompileInputs.cache
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Day 5 practice\Day-5-Basic-and-Fundamental-Program\PowerOfTwo\obj\Debug\net6.0\PowerOfTwo.dll
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Day 5 practice\Day-5-Basic-and-Fundamental-Program\PowerOfTwo\obj\Debug\net6.0\refint\PowerOfTwo.dll
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Day 5 practice\Day-5-Basic-and-Fundamental-Program\PowerOfTwo\obj\Debug\net6.0\PowerOfTwo.pdb
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Day 5 practice\Day-5-Basic-and-Fundamental-Program\PowerOfTwo\obj\Debug\net6.0\PowerOfTwo.genruntimeconfig.cache
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Day 5 practice\Day-5-Basic-and-Fundamental-Program\PowerOfTwo\obj\Debug\net6.0\ref\PowerOfTwo.dll

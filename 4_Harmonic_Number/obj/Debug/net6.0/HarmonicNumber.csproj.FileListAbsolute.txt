@@ -1,0 +1,15 @@
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Day 5 practice\Day-5-Basic-and-Fundamental-Program\4_Harmonic_Number\HarmonicNumber\bin\Debug\net6.0\HarmonicNumber.exe
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Day 5 practice\Day-5-Basic-and-Fundamental-Program\4_Harmonic_Number\HarmonicNumber\bin\Debug\net6.0\HarmonicNumber.deps.json
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Day 5 practice\Day-5-Basic-and-Fundamental-Program\4_Harmonic_Number\HarmonicNumber\bin\Debug\net6.0\HarmonicNumber.runtimeconfig.json
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Day 5 practice\Day-5-Basic-and-Fundamental-Program\4_Harmonic_Number\HarmonicNumber\bin\Debug\net6.0\HarmonicNumber.dll
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Day 5 practice\Day-5-Basic-and-Fundamental-Program\4_Harmonic_Number\HarmonicNumber\bin\Debug\net6.0\HarmonicNumber.pdb
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Day 5 practice\Day-5-Basic-and-Fundamental-Program\4_Harmonic_Number\HarmonicNumber\obj\Debug\net6.0\HarmonicNumber.csproj.AssemblyReference.cache
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Day 5 practice\Day-5-Basic-and-Fundamental-Program\4_Harmonic_Number\HarmonicNumber\obj\Debug\net6.0\HarmonicNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Day 5 practice\Day-5-Basic-and-Fundamental-Program\4_Harmonic_Number\HarmonicNumber\obj\Debug\net6.0\HarmonicNumber.AssemblyInfoInputs.cache
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Day 5 practice\Day-5-Basic-and-Fundamental-Program\4_Harmonic_Number\HarmonicNumber\obj\Debug\net6.0\HarmonicNumber.AssemblyInfo.cs
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Day 5 practice\Day-5-Basic-and-Fundamental-Program\4_Harmonic_Number\HarmonicNumber\obj\Debug\net6.0\HarmonicNumber.csproj.CoreCompileInputs.cache
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Day 5 practice\Day-5-Basic-and-Fundamental-Program\4_Harmonic_Number\HarmonicNumber\obj\Debug\net6.0\HarmonicNumber.dll
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Day 5 practice\Day-5-Basic-and-Fundamental-Program\4_Harmonic_Number\HarmonicNumber\obj\Debug\net6.0\refint\HarmonicNumber.dll
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Day 5 practice\Day-5-Basic-and-Fundamental-Program\4_Harmonic_Number\HarmonicNumber\obj\Debug\net6.0\HarmonicNumber.pdb
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Day 5 practice\Day-5-Basic-and-Fundamental-Program\4_Harmonic_Number\HarmonicNumber\obj\Debug\net6.0\HarmonicNumber.genruntimeconfig.cache
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Day 5 practice\Day-5-Basic-and-Fundamental-Program\4_Harmonic_Number\HarmonicNumber\obj\Debug\net6.0\ref\HarmonicNumber.dll

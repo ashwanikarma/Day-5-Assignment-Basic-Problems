@@ -1,0 +1,15 @@
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Day 5 practice\Day-5-Basic-and-Fundamental-Program\7_Swap_Two_Numbers\bin\Debug\net6.0\7_Swap_Two_Numbers.exe
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Day 5 practice\Day-5-Basic-and-Fundamental-Program\7_Swap_Two_Numbers\bin\Debug\net6.0\7_Swap_Two_Numbers.deps.json
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Day 5 practice\Day-5-Basic-and-Fundamental-Program\7_Swap_Two_Numbers\bin\Debug\net6.0\7_Swap_Two_Numbers.runtimeconfig.json
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Day 5 practice\Day-5-Basic-and-Fundamental-Program\7_Swap_Two_Numbers\bin\Debug\net6.0\7_Swap_Two_Numbers.dll
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Day 5 practice\Day-5-Basic-and-Fundamental-Program\7_Swap_Two_Numbers\bin\Debug\net6.0\7_Swap_Two_Numbers.pdb
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Day 5 practice\Day-5-Basic-and-Fundamental-Program\7_Swap_Two_Numbers\obj\Debug\net6.0\7_Swap_Two_Numbers.csproj.AssemblyReference.cache
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Day 5 practice\Day-5-Basic-and-Fundamental-Program\7_Swap_Two_Numbers\obj\Debug\net6.0\7_Swap_Two_Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Day 5 practice\Day-5-Basic-and-Fundamental-Program\7_Swap_Two_Numbers\obj\Debug\net6.0\7_Swap_Two_Numbers.AssemblyInfoInputs.cache
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Day 5 practice\Day-5-Basic-and-Fundamental-Program\7_Swap_Two_Numbers\obj\Debug\net6.0\7_Swap_Two_Numbers.AssemblyInfo.cs
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Day 5 practice\Day-5-Basic-and-Fundamental-Program\7_Swap_Two_Numbers\obj\Debug\net6.0\7_Swap_Two_Numbers.csproj.CoreCompileInputs.cache
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Day 5 practice\Day-5-Basic-and-Fundamental-Program\7_Swap_Two_Numbers\obj\Debug\net6.0\7_Swap_Two_Numbers.dll
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Day 5 practice\Day-5-Basic-and-Fundamental-Program\7_Swap_Two_Numbers\obj\Debug\net6.0\refint\7_Swap_Two_Numbers.dll
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Day 5 practice\Day-5-Basic-and-Fundamental-Program\7_Swap_Two_Numbers\obj\Debug\net6.0\7_Swap_Two_Numbers.pdb
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Day 5 practice\Day-5-Basic-and-Fundamental-Program\7_Swap_Two_Numbers\obj\Debug\net6.0\7_Swap_Two_Numbers.genruntimeconfig.cache
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Day 5 practice\Day-5-Basic-and-Fundamental-Program\7_Swap_Two_Numbers\obj\Debug\net6.0\ref\7_Swap_Two_Numbers.dll

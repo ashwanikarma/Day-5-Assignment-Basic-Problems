@@ -1,0 +1,15 @@
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Day 5 practice\Day-5-Basic-and-Fundamental-Program\LeapYear\bin\Debug\net6.0\LeapYear.exe
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Day 5 practice\Day-5-Basic-and-Fundamental-Program\LeapYear\bin\Debug\net6.0\LeapYear.deps.json
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Day 5 practice\Day-5-Basic-and-Fundamental-Program\LeapYear\bin\Debug\net6.0\LeapYear.runtimeconfig.json
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Day 5 practice\Day-5-Basic-and-Fundamental-Program\LeapYear\bin\Debug\net6.0\LeapYear.dll
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Day 5 practice\Day-5-Basic-and-Fundamental-Program\LeapYear\bin\Debug\net6.0\LeapYear.pdb
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Day 5 practice\Day-5-Basic-and-Fundamental-Program\LeapYear\obj\Debug\net6.0\LeapYear.csproj.AssemblyReference.cache
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Day 5 practice\Day-5-Basic-and-Fundamental-Program\LeapYear\obj\Debug\net6.0\LeapYear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Day 5 practice\Day-5-Basic-and-Fundamental-Program\LeapYear\obj\Debug\net6.0\LeapYear.AssemblyInfoInputs.cache
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Day 5 practice\Day-5-Basic-and-Fundamental-Program\LeapYear\obj\Debug\net6.0\LeapYear.AssemblyInfo.cs
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Day 5 practice\Day-5-Basic-and-Fundamental-Program\LeapYear\obj\Debug\net6.0\LeapYear.csproj.CoreCompileInputs.cache
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Day 5 practice\Day-5-Basic-and-Fundamental-Program\LeapYear\obj\Debug\net6.0\LeapYear.dll
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Day 5 practice\Day-5-Basic-and-Fundamental-Program\LeapYear\obj\Debug\net6.0\refint\LeapYear.dll
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Day 5 practice\Day-5-Basic-and-Fundamental-Program\LeapYear\obj\Debug\net6.0\LeapYear.pdb
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Day 5 practice\Day-5-Basic-and-Fundamental-Program\LeapYear\obj\Debug\net6.0\LeapYear.genruntimeconfig.cache
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Day 5 practice\Day-5-Basic-and-Fundamental-Program\LeapYear\obj\Debug\net6.0\ref\LeapYear.dll

@@ -1,0 +1,15 @@
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Day 5 practice\Day-5-Basic-and-Fundamental-Program\9_Alphabet_Vovel_or_Consonent\bin\Debug\net6.0\9_Alphabet_Vovel_or_Consonent.exe
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Day 5 practice\Day-5-Basic-and-Fundamental-Program\9_Alphabet_Vovel_or_Consonent\bin\Debug\net6.0\9_Alphabet_Vovel_or_Consonent.deps.json
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Day 5 practice\Day-5-Basic-and-Fundamental-Program\9_Alphabet_Vovel_or_Consonent\bin\Debug\net6.0\9_Alphabet_Vovel_or_Consonent.runtimeconfig.json
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Day 5 practice\Day-5-Basic-and-Fundamental-Program\9_Alphabet_Vovel_or_Consonent\bin\Debug\net6.0\9_Alphabet_Vovel_or_Consonent.dll
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Day 5 practice\Day-5-Basic-and-Fundamental-Program\9_Alphabet_Vovel_or_Consonent\bin\Debug\net6.0\9_Alphabet_Vovel_or_Consonent.pdb
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Day 5 practice\Day-5-Basic-and-Fundamental-Program\9_Alphabet_Vovel_or_Consonent\obj\Debug\net6.0\9_Alphabet_Vovel_or_Consonent.csproj.AssemblyReference.cache
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Day 5 practice\Day-5-Basic-and-Fundamental-Program\9_Alphabet_Vovel_or_Consonent\obj\Debug\net6.0\9_Alphabet_Vovel_or_Consonent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Day 5 practice\Day-5-Basic-and-Fundamental-Program\9_Alphabet_Vovel_or_Consonent\obj\Debug\net6.0\9_Alphabet_Vovel_or_Consonent.AssemblyInfoInputs.cache
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Day 5 practice\Day-5-Basic-and-Fundamental-Program\9_Alphabet_Vovel_or_Consonent\obj\Debug\net6.0\9_Alphabet_Vovel_or_Consonent.AssemblyInfo.cs
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Day 5 practice\Day-5-Basic-and-Fundamental-Program\9_Alphabet_Vovel_or_Consonent\obj\Debug\net6.0\9_Alphabet_Vovel_or_Consonent.csproj.CoreCompileInputs.cache
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Day 5 practice\Day-5-Basic-and-Fundamental-Program\9_Alphabet_Vovel_or_Consonent\obj\Debug\net6.0\9_Alphabet_Vovel_or_Consonent.dll
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Day 5 practice\Day-5-Basic-and-Fundamental-Program\9_Alphabet_Vovel_or_Consonent\obj\Debug\net6.0\refint\9_Alphabet_Vovel_or_Consonent.dll
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Day 5 practice\Day-5-Basic-and-Fundamental-Program\9_Alphabet_Vovel_or_Consonent\obj\Debug\net6.0\9_Alphabet_Vovel_or_Consonent.pdb
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Day 5 practice\Day-5-Basic-and-Fundamental-Program\9_Alphabet_Vovel_or_Consonent\obj\Debug\net6.0\9_Alphabet_Vovel_or_Consonent.genruntimeconfig.cache
+C:\Users\ashwa\Documents\RFP .net BridgeLabz\Day 5 practice\Day-5-Basic-and-Fundamental-Program\9_Alphabet_Vovel_or_Consonent\obj\Debug\net6.0\ref\9_Alphabet_Vovel_or_Consonent.dll
